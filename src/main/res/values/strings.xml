@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Waybus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="routes">
+        <item>Puducherry</item>
+        <item>PEC</item>
+        <item>Villianur</item>
+    </string-array>
+
+
+</resources>

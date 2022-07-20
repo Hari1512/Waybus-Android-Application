@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72735291745",
+    "firebase_url": "https://haripro-c6c3a-default-rtdb.firebaseio.com",
+    "project_id": "haripro-c6c3a",
+    "storage_bucket": "haripro-c6c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72735291745:android:f6603823146bedfb6e6d20",
+        "android_client_info": {
+          "package_name": "com.example.waybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72735291745-40lajlbcqb0h0coesksl685o2db4ka6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waybus",
+            "certificate_hash": "bd27c9d4dbfd60c54f99c736691d6912c24f9074"
+          }
+        },
+        {
+          "client_id": "72735291745-1pooj890iim0soafnb3dj405n55kuuvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPuAmwjwZg01v8VzttdDl-lO-hkwsV7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72735291745-1pooj890iim0soafnb3dj405n55kuuvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
